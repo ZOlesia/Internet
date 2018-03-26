@@ -1,0 +1,200 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#container{
+    width: 970px;
+    height: 880px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to bottom, #e6e6e6 0%, #ffffff 55%);
+}
+#header{
+    width: 970px;
+}
+#white{
+    background-color: white; 
+}
+#globe{
+    width: 90px;
+    height: 90px;
+    position: relative;
+    top: 20px;
+    left: 5px;
+}
+#internet{
+    display: inline-block;
+    vertical-align: top;
+    margin: 35px 0px 0px 10px;
+    padding-top: 5px;
+    font-size: 45px;
+    color: #474747;
+}
+#www{
+    width: 935px;
+    padding: 12px 17px;
+    background-color: #447aa8;
+    color: #f7f9fb;
+}
+.highlight{
+    color: #2d6ca2;
+}
+#leftpart{
+    width: 199px;
+    height: 526px;
+    display: inline-block;
+    vertical-align: top;
+}
+#red{
+    color: #d92a24;
+}
+#leftpart h4 {
+    margin-left: 5px;
+    margin-top: 25px;
+}
+#leftpart p {
+    margin-left: 5px;
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 14px;
+}
+#buttons{
+    margin: 20px 25px;
+}
+.button{
+    display: block;
+    height: 30px;
+    width: 150px;
+    margin-bottom: 5px;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    box-shadow: 2px 2px black;
+}
+.blue{
+    background-color: #4480b2;
+}
+.orange{
+    background-color: #ee8a0c;
+}
+#shorthr{
+    background-color: gray;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+#ninja{
+    height: 300px;
+    background-image: url(ad_background.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+#ninja p{
+    color: white;
+    font-size: 21px;
+    text-align: center;
+    padding-top: 20px;
+}
+#ninja img{
+    height: 110px;
+    width: 70px;
+    margin-left: 68px;
+}
+#more{
+    display: block;
+    width: 150px;
+    height: 27px;
+    margin-top: 15px;
+    margin-left: 25px;
+    background-color: #39c9df;
+    border: none;
+    border-radius: 5px;
+    color: #fcfefe;
+}
+#rightpart{
+    width: 708px;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 60px;
+}
+#hours{
+    text-align: right;
+    font-size: 10px;
+    color: gray;
+    margin-top: 3px;
+    margin-right: 20px;
+
+}
+#home{
+    display: inline-block;
+    vertical-align: top;
+}
+#home img{
+    width: 20px;
+    height: 20px;
+}
+#home p{
+    display: inline-block;
+    color: #3472a5
+}
+#contact{
+    text-align: right;
+    margin-top: -40px;
+    padding-right: 20px;
+}
+#phone{
+    width: 40px;
+    height: 40px;
+    position: relative;
+    left: 432px;
+}
+#contact h2{
+    color: #30c8e1;
+}
+#international{
+    text-align: right;
+    font-size: 10px;
+    color: gray;
+    margin-top: 3px;
+    margin-right: 4px;
+    margin-bottom: 10px;
+}
+#client_server{
+    height: 100px;
+    width: 270px;
+    margin: 10px 175px;
+}
+#rightpart hr{
+    margin-bottom: 10px;
+    background-color: gray;
+}
+#rightpart li{
+    margin-left: 40px;
+    margin-top: 10px;
+}
+#bottom{
+    width: 707px;
+    height: 116px;
+    margin-top: 20px;
+    border: 2px solid #0085e0;
+    border-bottom: none;
+}
+#html{
+    width: 100px;
+    height: 95px;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 25px;
+    margin-top: 13px;
+}
+#big3{
+    display: inline-block;
+    width: 550px;
+    font-size: 15px;
+    margin-top: 13px;
+    margin-left: 20px;
+}
+
+
+.underline2{
+    color: #6cc4d1;
+}
